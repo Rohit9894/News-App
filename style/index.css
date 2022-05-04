@@ -1,0 +1,44 @@
+#nav
+{
+  display: inline;
+  color:blue;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+#search_input{
+  width:900px;
+  margin-left: 50px;
+  height: 30px;
+  border:1px solid black;
+  border-radius:30px;
+  font-size:15px;
+  margin-top: 10px;
+
+
+}
+#navbar{
+height:80px;
+width:100%;
+background-color: 
+#fbedce;  
+padding-bottom: 10px;
+
+}
+#div{
+  display: flex;
+  margin-top: 25px;
+  border:1px solid blue;
+}
+#results
+{
+  margin-left: 20px;
+}
+#div2
+{
+  margin-left: 20px;
+}
+#img
+{
+  height:120px;
+}
+
