@@ -14,7 +14,7 @@ let h3=document.createElement("h3")
 h3.innerText=data2.title;
 let p=document.createElement("p")
 p.innerText=data2.des;
-let box=document.querySelector("#results")
+let box=document.querySelector("#detailed_news")
 box.append(img,h3,p)
 
 
